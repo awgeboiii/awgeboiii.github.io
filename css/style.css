@@ -472,6 +472,17 @@ body{
     width: 100%;
 }
 
+.gmap{
+    width: 80vw;
+    height: 60vh;
+    padding: 20px;
+}
+
+.gmap1{
+    text-align: center;
+    margin: 50px;
+}
+
 @media (max-width: 420px){
     .title{
         font-size: 40px;
